@@ -8,11 +8,12 @@ the game's rules and speed in a mobile app environment.
 
 Features
 
-Interactive Grid: Tap to toggle cells on/off.
-Customizable Themes & UI Elements.
-Adjustable Simulation Speed.
-Preset Patterns (Gliders, Pulsars, etc.).
-Import/Export Grid States.
+1. Interactive Grid: Tap to toggle cells on/off.
+2. Customized Themes & UI Elements.
+3. Adjustable Simulation Speed and Grid Size.
+4. Preset Patterns (Gliders, Pulsars, etc.).
+5. Import/Export Grid States.
+6. Visual animations implemented. 
 
 Running the App on iOS Simulator
 
